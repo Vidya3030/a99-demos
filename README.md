@@ -6,9 +6,10 @@ To do this, just structure it look like the example on line 11: team name, demo 
 To save it, Make sure to click the green button at the bottom that says "Propose changes" and then, on the page that follows, create a pull request by clicking the green button that says "Create pull request."
 See illustration below.
 
-| Team Name | Demo video link | Project repo | 
+| Team Name | Demo Video Link | Project Repo | 
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| Group 32 (Weatherfy) | https://youtu.be/VICfSfzKCts | https://github.com/comp426-2022-fall/a99-team-32 |
 
 ## Propose changes and create pull request
 
